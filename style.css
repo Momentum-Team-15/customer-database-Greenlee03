@@ -1,0 +1,22 @@
+#customer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 98vw;
+    border: 2px solid red;
+}
+.customer {
+    border: 2px solid blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 20vw;    
+    padding: 5px;
+    width: min-content;
+    min-width: 210px;
+}
+
+.images {
+    border-radius: 50px 80px 50px 80px;
+    border: 2px solid green;
+ }
